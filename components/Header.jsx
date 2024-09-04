@@ -13,6 +13,7 @@ const Header = () => {
                                 src={logo}
                                 alt="Logo"
                                 className="w-full h-12"
+                                priority={true}
                             />
                         </Link>
                     </div>
